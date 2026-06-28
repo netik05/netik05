@@ -30,6 +30,13 @@
 <br/>
 
 <!-- ░░░ ABOUT ME ░░░ -->
+<!-- NEURAL NETWORK -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/netik05/netik05/main/assets/neural-network.svg" alt="AI-Native Engineering Pipeline" width="100%" />
+</div>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=23A4BC&height=2" width="100%" />
 
 ## 👨‍💻 About Me
