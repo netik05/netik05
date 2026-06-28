@@ -32,7 +32,7 @@
 <!-- ░░░ ABOUT ME ░░░ -->
 <!-- NEURAL NETWORK -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/netik05/netik05/main/assets/neural-network.svg" alt="AI-Native Engineering Pipeline" width="100%" />
+  <img src="https://netik05.github.io/netik05/assets/neural-network.svg" alt="AI-Native Engineering Pipeline" width="100%" />
 </div>
 
 <br/>
