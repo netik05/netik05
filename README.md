@@ -180,11 +180,9 @@ If you do it twice, automate it. If you do it three times, build a platform.
 
 ## 📊 GitHub Stats
 
-<!-- Stats, top languages, contribution calendar & achievements.
-     Self-generated daily by the Metrics GitHub Action and committed to
-     this repo, so nothing depends on rate-limited public instances. -->
+<!-- Contribution activity over the past year -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/netik05/netik05/main/github-metrics.svg" alt="GitHub metrics — stats, top languages, contribution calendar & achievements" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=netik05&theme=github-compact&hide_border=true&color=23A4BC&line=23A4BC&point=ffffff&bg_color=00000000" alt="Contribution Activity Graph" width="100%" />
 </div>
 
 <br/>
